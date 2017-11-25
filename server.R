@@ -8,7 +8,7 @@
 #
 
 library(shiny)
-library(qcc)
+library(qicharts)
 
 
 # Define server logic required to draw Charts
